@@ -1,6 +1,7 @@
 #skills {
     padding: 40px 20px;
     background-color: #f8f8f8;
+    scroll-margin-top: 60px;
 }
 
 .skills__container {

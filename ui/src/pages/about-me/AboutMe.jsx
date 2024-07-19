@@ -12,12 +12,13 @@ function AboutMe() {
       <div className="about_me__container">
         <h2 className="about_me__title">About me</h2>
         <p className="about_me__description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut ducimus esse cumque distinctio in asperiores ipsum quisquam eius. Porro earum dolores quos perferendis laboriosam quaerat eius vel impedit suscipit tenetur.
-          Et sit fugiat cum corrupti, similique consequatur reiciendis recusandae nesciunt, ut a tenetur eveniet saepe. Earum, dolor, fuga optio deserunt eum dolorum aspernatur obcaecati voluptas corrupti dolores perspiciatis qui aliquid?
+          I am an information systems engineering student at UTN FRBA in Buenos Aires. Currently, I'm in my third year of career and I am doing
+          a testing intership at <a href='https://www.planexware.com/' target='_blanck' style={{color: 'rgb(255, 115, 0)' , textDecoration: 'none'}}>Planexware S.A</a>. On the other hand, I really enjoy learning new technologies and create my own projects to improve
+          my knowledge. I want to become in a software engineer someday.
         </p>
         <div className="about_me__subcontainer">
           <h3 className="about_me__subtitle"><span style={{fontWeight: '700' , color: 'rgb(255, 115, 0)'}}>Location</span>: Buenos Aires, Argentina.</h3>
-          <h3 className="about_me__subtitle"><span style={{fontWeight: '700' , color: 'rgb(255, 115, 0)'}}>Some interests</span>: guitars, computers and travelling.</h3>
+          <h3 className="about_me__subtitle"><span style={{fontWeight: '700' , color: 'rgb(255, 115, 0)'}}>Some interests</span>: guitars, computers, learning new things and traveling.</h3>
         </div>
       </div>
     </div>

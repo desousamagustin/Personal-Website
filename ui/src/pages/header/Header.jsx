@@ -5,7 +5,7 @@ import Nav from '../../components/nav/Nav'
 
 function Header() {
   return (
-    <div id='header' className='container'>
+    <div id='home' className='container'>
       <Nav></Nav>
       <div className="header__container">
         <div className="header__subcontainer">
@@ -20,9 +20,9 @@ function Header() {
             <img src={require('../../assets/img/guy programming.png')} alt="A guy programming" className="header__img" />
           </div>
           <div className="social_media_icons">
-            <a href=""><i class="fa-brands fa-linkedin social_media_icon"></i></a>
-            <a href=""><i class="fa-brands fa-square-github social_media_icon"></i></a>
-            <a href=""><i class="fa-brands fa-instagram social_media_icon"></i></a>
+            <a href="https://www.linkedin.com/in/dsmagustin/" target='_blanck'><i class="fa-brands fa-linkedin social_media_icon"></i></a>
+            <a href="https://github.com/desousamagustin" target='_blanck'><i class="fa-brands fa-square-github social_media_icon"></i></a>
+            <a href="https://www.instagram.com/desousamagustin/" target='_blanck'><i class="fa-brands fa-instagram social_media_icon"></i></a>
           </div>
         </div>
       </div>
