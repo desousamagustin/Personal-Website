@@ -2,6 +2,8 @@ import React from 'react'
 import './header.css'
 
 import Nav from '../../components/nav/Nav'
+import CVPDF from '../../assets/files/CV Spanish version.pdf'
+import openAFile from '../../common-functions/openAFile'
 
 function Header() {
   return (
@@ -12,7 +14,7 @@ function Header() {
           <h1 className="header__title">Hi! My name is <span style={{color: 'rgb(255, 115, 0)', fontWeight: '400'}}>Agustín</span></h1>
           <h2 className="header__subtitle">QA tester, developer and software engineering student.</h2>
           <div className="subcontainer__cv_button_container">
-            <a href='' className="header__cv_button">Download CV</a>
+            <button onClick={() => openAFile(CVPDF)} className="header__cv_button">Download CV</button>
           </div>
         </div>
         <div className="header__subcontainer">
@@ -31,5 +33,3 @@ function Header() {
 }
 
 export default Header
-
-/*https://bhavya.dev/*/
