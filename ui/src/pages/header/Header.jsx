@@ -5,7 +5,7 @@ import Nav from '../../components/nav/Nav'
 
 function Header() {
   return (
-    <div id='header'>
+    <div id='header' className='container'>
       <Nav></Nav>
       <div className="header__container">
         <div className="header__subcontainer">

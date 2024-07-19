@@ -3,7 +3,7 @@ import './about_me.css'
 
 function AboutMe() {
   return (
-    <div id='about_me'>
+    <div id='about_me' className='container'>
       <div className="about_me__container">
         <div className="about_me__img_container">
           <img src={require('../../assets/img/about_me__me.jpg')} alt="Profile picture" className="about_me__img" />

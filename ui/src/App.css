@@ -11,3 +11,16 @@
     font-weight: 300;
     font-style: normal;
 }
+
+.container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+:root {
+    scroll-behavior: smooth;
+    --main-orange-color: rgb(255, 115, 0);
+}
