@@ -11,7 +11,7 @@ function Header() {
       <Nav></Nav>
       <div className="header__container">
         <div className="header__subcontainer">
-          <h1 className="header__title">Hi! My name is <span style={{color: 'rgb(255, 115, 0)', fontWeight: '400'}}>Agustín</span></h1>
+          <h1 className="header__title">Hi! My name is <span style={{color: 'rgb(255, 115, 0)', fontWeight: '400'}}>Agustín</span>.</h1>
           <h2 className="header__subtitle">QA tester, developer and software engineering student.</h2>
           <div className="subcontainer__cv_button_container">
             <button onClick={() => openAFile(CVPDF)} className="header__cv_button">Download CV</button>

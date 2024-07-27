@@ -21,9 +21,6 @@ function Skills() {
     <div id='skills' className='container'>
         <div className="skills__container">
             <h2 className="skills__title">Skills</h2>
-            <p className="skills__description">
-                Here there are some technologies that I am using currently and other that I am learning.
-            </p>
         </div>
         <div className="skills__container">
             <section className="skills__section">

@@ -5,23 +5,23 @@
 
 .footer__title {
     margin: 3px;
-    padding: 15px;
+    padding: 10px;
     font-size: 14px;
     color: #fff;
 }
 
 .footer__icon_container {
     position: absolute;
-    right: 15px;
-    bottom: 12px;
+    right: 20px;
+    bottom: 10px;
     border: none;
     background-color: rgb(255, 115, 0);
     cursor: pointer;
 }
 
 .footer__icon {
-    padding: 3px 5px;
-    font-size: 20px;
+    padding: 2px 3px;
+    font-size: 18px;
 }
 
 .footer__icon_container:hover {
@@ -31,6 +31,6 @@
 
 @media screen and (min-width: 600px) {
     .footer__title {
-        font-size: 16px;
+        font-size: 14px;
     }
 }

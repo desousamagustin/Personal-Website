@@ -9,25 +9,27 @@ function Experience() {
           <article className="experience__job">
             <h3 className="experience_subcontainer__title">Testing internship</h3>
             <div className="job__data">
-              <h4 className="job__subtitle">Planexware S.A. ---</h4>
+              <h4 className="job__subtitle">Planexware S.A.</h4>
               <h4 className="job__subtitle">July 2023 - Present</h4>
             </div>
             <p className="job__description">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci atque alias, 
-              maiores odio illo est incidunt magnam quae corporis quasi tempore praesentium 
-              nam provident aliquid animi, voluptate, dolorem ex cupiditate.
+              As a QA Tester, I focus on garantee the software quality through manual test executions and collaboration with development team.
+              I create test plans, design and execute test cases. I participate in meetings where new features and improvements are exposed.
               <ul className="job__list">
                 <li className="job__item">
-                  <h5 className="job__item_title">Microsoft Azure</h5>
+                  <h5 className="job__item_title">Microsoft Azure for test plans</h5>
                 </li>
                 <li className="job__item">
-                  <h5 className="job__item_title">SQL Server</h5>
+                  <h5 className="job__item_title">SQL</h5>
                 </li>
                 <li className="job__item">
-                  <h5 className="job__item_title">Create and design test cases</h5>
+                  <h5 className="job__item_title">Designing and creation of test cases</h5>
                 </li>
                 <li className="job__item">
-                  <h5 className="job__item_title">Regression, unitary and integration tests</h5>
+                  <h5 className="job__item_title">Unitary, integration and regression tests</h5>
+                </li>
+                <li className="job__item">
+                  <h5 className="job__item_title">Report of bugs</h5>
                 </li>
               </ul>
             </p>
@@ -36,22 +38,29 @@ function Experience() {
           <article className="experience__job">
             <h3 className="experience_subcontainer__title">GIBIO</h3>
             <div className="job__data">
-              <h4 className="job__subtitle">UTN FRBA ---</h4>
+              <h4 className="job__subtitle">UTN FRBA</h4>
               <h4 className="job__subtitle">March 2022 - March 2023</h4>
             </div>
             <p className="job__description">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci atque alias, 
-              maiores odio illo est incidunt magnam quae corporis quasi tempore praesentium nam 
-              provident aliquid animi, voluptate, dolorem ex cupiditate.
+              I had to design and build a platform from scratch where a student can create his own account and ask for a medical shift.
+              This development includes: a landing page where users can create an account or see important information about GIBIO, 
+              several user interfaces where users can login with his email and password, backend for login, sign up and complete a form and
+              a database for persist the user information using the Hibernate ORM. Many highlights are, for example, using of MVC pattern and object-oriented programming.
               <ul className="job__list">
                 <li className="job__item">
-                  <h5 className="job__item_title">React framework</h5>
+                  <h5 className="job__item_title">React</h5>
                 </li>
                 <li className="job__item">
-                  <h5 className="job__item_title">Spring framework with Java</h5>
+                  <h5 className="job__item_title">Spring with Java</h5>
                 </li>
                 <li className="job__item">
                   <h5 className="job__item_title">Hibernate</h5>
+                </li>
+                <li className="job__item">
+                  <h5 className="job__item_title">MVC pattern</h5>
+                </li>
+                <li className="job__item">
+                  <h5 className="job__item_title">Object-oriented programming</h5>
                 </li>
               </ul>
             </p>

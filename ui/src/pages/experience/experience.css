@@ -51,7 +51,7 @@
 }
 
 .job__list {
-    padding: 10px 0 0 40px;
+    padding: 10px 0 0 30px;
 }
 
 .job__item_title {
@@ -60,7 +60,7 @@
 
 @media screen and (min-width: 620px) {
     #experience {
-        padding: 30px 0;
+        padding: 60px 0;
     }
 
     .experience__container {
@@ -68,9 +68,15 @@
     }
     
     .job__description {
-        width: 90%;
-        font-size: 17px;
+        width: 60%;
+        font-size: 16px;
         color: #464646;
         margin-top: 10px;
+    }
+
+    .job__subtitle {
+        font-size: 13px;
+        padding-right: 10px;
+        font-weight: 700;
     }
 }

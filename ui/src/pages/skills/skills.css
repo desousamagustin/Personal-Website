@@ -17,10 +17,6 @@
     font-weight: 700;
 }
 
-.skills__description {
-    padding: 10px 7px;
-}
-
 .skills__section {
     width: 100%;
     height: auto;
@@ -57,10 +53,6 @@
 
     .skills__title {
         font-size: 35px;
-    }
-
-    .skills__description {
-        font-size: 17px;
     }
 
     .skills_section__title {
