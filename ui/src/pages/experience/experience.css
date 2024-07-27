@@ -18,65 +18,12 @@
     font-weight: bold;
 }
 
-.experience__job {
-    width: 100%;
-    margin: 10px 0;
-    display: flex;
-    flex-direction: column;
-}
-
-.experience_subcontainer__title {
-    margin: 10px 0;
-    font-size: 21px;
-    color: #464646;
-    font-weight: 700;
-}
-
-.job__data {
-    height: auto;
-    display: flex;
-    color: #464646;
-}
-
-.job__subtitle {
-    padding: 5px 5px 5px 0;
-    color: #464646;
-    font-size: 15px;
-}
-
-.job__description {
-    font-size: 17px;
-    color: #464646;
-    margin-top: 10px;
-}
-
-.job__list {
-    padding: 10px 0 0 30px;
-}
-
-.job__item_title {
-    font-size: 17px;
-}
-
 @media screen and (min-width: 620px) {
     #experience {
-        padding: 60px 0;
+        padding: 50px 0;
     }
 
     .experience__container {
         width: 85%;
-    }
-    
-    .job__description {
-        width: 60%;
-        font-size: 16px;
-        color: #464646;
-        margin-top: 10px;
-    }
-
-    .job__subtitle {
-        font-size: 13px;
-        padding-right: 10px;
-        font-weight: 700;
     }
 }
