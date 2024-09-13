@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Personal-Website/static/css/main.7e561e44.css",
+    "main.js": "/Personal-Website/static/js/main.e76d51d3.js",
+    "static/media/about_me__me.jpg": "/Personal-Website/static/media/about_me__me.1547463c7461f6d7db17.jpg",
+    "static/media/guy programming.png": "/Personal-Website/static/media/guy programming.df23386ce3b80d6a12ba.png",
+    "static/media/azure.png": "/Personal-Website/static/media/azure.cac1ef94f56c3c8ceb14.png",
+    "static/media/CV Spanish version.pdf": "/Personal-Website/static/media/CV Spanish version.02c3e696d07a8cce890b.pdf",
+    "static/media/html.png": "/Personal-Website/static/media/html.79d7466f80046a88dd4d.png",
+    "static/media/js.png": "/Personal-Website/static/media/js.e55c125a40364a9df4ae.png",
+    "static/media/sql.png": "/Personal-Website/static/media/sql.a8095b3bdd5f8d46040f.png",
+    "static/media/cplusplus.png": "/Personal-Website/static/media/cplusplus.d0105e23ea77d9b2a9b7.png",
+    "static/media/sqlserver.png": "/Personal-Website/static/media/sqlserver.fd52b4d4d74b4702bd16.png",
+    "static/media/react.png": "/Personal-Website/static/media/react.6fb7b0001453acc75c4c.png",
+    "static/media/java.png": "/Personal-Website/static/media/java.b997adcc8d0067decc7f.png",
+    "index.html": "/Personal-Website/index.html",
+    "main.7e561e44.css.map": "/Personal-Website/static/css/main.7e561e44.css.map",
+    "main.e76d51d3.js.map": "/Personal-Website/static/js/main.e76d51d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e561e44.css",
+    "static/js/main.e76d51d3.js"
+  ]
+}
